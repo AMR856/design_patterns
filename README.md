@@ -5,3 +5,5 @@ Here, I implement software design patterns following the tutorials of[`Christoph
 - [`Strategy Pattern`](./StrategyPattern)
 - [`Observer Pattern`](./ObserverPattern)
 - [`Decorator Pattern`](./DecoratorPattern)
+- [`Factory Method Pattern`](./FactoryMethodPattern)
+- [`Singleton Pattern`](./StrategyPattern)
