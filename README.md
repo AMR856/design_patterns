@@ -7,3 +7,4 @@ Here, I implement software design patterns following the tutorials of[`Christoph
 - [`Decorator Pattern`](./DecoratorPattern/src)
 - [`Factory Method Pattern`](./FactoryMethodPattern/src)
 - [`Singleton Pattern`](./StrategyPattern/src)
+- [`Command Pattern`](./CommandPattern)
