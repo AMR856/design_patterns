@@ -9,4 +9,5 @@ Here, I implement software design patterns following the tutorials of[`Christoph
 - [`Singleton Pattern`](./StrategyPattern/src)
 - [`Command Pattern`](./CommandPattern)
 - [`Facade Pattern`](./FacadePattern)
-- 
+- [`Adapter Pattern`](./AdapterPattern)
+- [`Proxy Pattern`](./ProxyPattern)
