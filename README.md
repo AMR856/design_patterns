@@ -11,3 +11,4 @@ Here, I implement software design patterns following the tutorials of[`Christoph
 - [`Facade Pattern`](./FacadePattern)
 - [`Adapter Pattern`](./AdapterPattern)
 - [`Proxy Pattern`](./ProxyPattern)
+- [`Chain of Responsibility`](./ChainOfResponsibilityPattern)
