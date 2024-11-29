@@ -14,3 +14,5 @@ Here, I implement software design patterns following the tutorials of[`Christoph
 - [`Chain of Responsibility`](./ChainOfResponsibilityPattern)
 - [`Abstract Factory Pattern`](./AbstractFactoryPattern)
 - [`Memento Pattern`](./MementoPattern)
+- [`Template Pattern`](./TemplatePattern)
+- [`Bridge Pattern`](./BridgePattern)
