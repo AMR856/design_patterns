@@ -11,7 +11,7 @@ public class Main {
             );
             Book book = new Book(
                     "A book about a boy who lived from being killed by a dark wizard" +
-                            "and his after being taking to wizard school ",
+                            "and his life after being taken to wizard school",
                     "https://www.amazon.eg/-/en/Bloomsbury-Harry-Potter-Philosophers-Stone/dp/1408855658",
                     "Book's image here",
                     "Harry Potter and the Philosopher's Stone"
